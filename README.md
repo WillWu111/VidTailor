@@ -80,6 +80,17 @@ VidTailor's solutions:
 - Personalized recommendation engine
 - Intelligent Q&A and collaboration system
 
----
+## Usage
 
-*Project Lead: Yue Li*
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/WillWu111/VidTailor.git
+   ```
+2. Enter the Codes folder:
+   ```bash
+   cd Codes
+   ```
+3. Open the HTML file in your browser (double-click it or run):
+    ```bash
+   start index.html
+    ```
